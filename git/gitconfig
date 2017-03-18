@@ -1,0 +1,16 @@
+[user]
+	email = diegoy@gmail.com
+	name = Diego Y. K.
+[color]
+  ui = true
+[alias]
+  ci = commit
+  co = checkout
+  st = status
+[push]
+  default = simple
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = red
+  new = green

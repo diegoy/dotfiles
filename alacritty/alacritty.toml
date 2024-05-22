@@ -1,0 +1,11 @@
+import = [
+    "~/.config/alacritty/themes/themes/nord.toml"
+]
+
+[font]
+size = 13
+
+[window]
+blur = true
+opacity = 0.92
+startup_mode = "Maximized"
